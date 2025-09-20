@@ -1,0 +1,5 @@
+jieba==0.42.1          # 中文分词
+numpy==1.26.4          # 余弦相似度向量计算
+pylint==3.2.2          
+unittest2==1.1.0       
+coverage==7.4.4       
